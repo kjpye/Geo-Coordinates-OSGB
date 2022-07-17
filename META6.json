@@ -1,0 +1,26 @@
+{
+  "auth": "zef:kjpye",
+  "authors": [
+    "Kevin Pye"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+    "Geo::Geometry"
+  ],
+  "description": "Convert coordinates between the Ordnance Survey National Grid and latitude and longitude",
+  "license": "Artistic-2.0",
+  "name": "Geo::Coordinates::OSGB",
+  "perl": "6.d",
+  "provides": {
+    "Geo::Coordinates::OSGB": "lib/Geo/Coordinates/OSGB.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/kjpye/Geo-Coordinates-OSGB",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
